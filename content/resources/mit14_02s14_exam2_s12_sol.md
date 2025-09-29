@@ -5,6 +5,8 @@ description: This file contains the information regarding 14.02 Spring 2012 Exam
 file: /courses/14-02-principles-of-macroeconomics-spring-2014/d2a74845f2107a8826c9841dd0df4abc_MIT14_02S14_Exam2_S12_Sol.pdf
 file_size: 642318
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

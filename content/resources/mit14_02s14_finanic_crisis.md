@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding financi
 file: /courses/14-02-principles-of-macroeconomics-spring-2014/97c27160ea3b28a78ce070b729ab10b0_MIT14_02S14_finanic_crisis.pdf
 file_size: 246386
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

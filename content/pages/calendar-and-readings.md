@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Calendar and Readings
 uid: a69a8e1f-3a07-ced4-98f5-128a49a3221e
 ---
-For the first seven lectures, the students used the professor's {{% resource_link "f49a0f7f-30ec-5513-00d8-4a6d75c46f45" "lecture notes" "#firstlectures" %}} as their text. Please also see the {{% resource_link "257f9b22-becf-4e6c-89d6-8c0e8ef4ee56" "additional readings" %}} below the table.  
+For the first seven lectures, the students used the professor's {{% resource_link "f49a0f7f-30ec-5513-00d8-4a6d75c46f45" "lecture notes" "#firstlectures" %}} as their text. Please also see the [additional readings](https://ocw-studio.odl.mit.edu/sites/14-02-principles-of-macroeconomics-spring-2014/type/page/edit/a69a8e1f-3a07-ced4-98f5-128a49a3221e/#additional) below the table.  
 
 \[Macro\] = Blanchard, Olivier, and David R. Johnson. *Macroeconomics*. 6th ed. Pearson, 2012. ISBN: 9780133061635.
 
@@ -303,16 +303,16 @@ No readings
 
 ## Additional Readings
 
-Gapper, John. "{{% resource_link "47baff2b-8d22-477d-bdd3-dc58de40deeb" "Promises that Proved Ultimately Empty" %}}," *Financial Times*, January 9, 2012.
+Gapper, John. "[Promises that Proved Ultimately Empty](http://www.ft.com/intl/cms/s/0/35f6c704-3ab8-11e1-a756-00144feabdc0.html#axzz3CiaBKSiK)," *Financial Times*, January 9, 2012.
 
-"{{% resource_link "eea4f503-c25a-4222-b0d5-105ac10e3ada" "Playing with Fire" %}}," *The Economist*, February 25, 2012.
+"[Playing with Fire](http://www.economist.com/node/21547999)," *The Economist*, February 25, 2012.
 
-"{{% resource_link "b605f77a-4cdf-4081-b8d6-75db5b3b897f" "The Origins of the Financial Crisis: Crash Course" %}}," *The Economist*, September 7, 2013.
+"[The Origins of the Financial Crisis: Crash Course](http://www.economist.com/news/schoolsbrief/21584534-effects-financial-crisis-are-still-being-felt-five-years-article)," *The Economist*, September 7, 2013.
 
-"{{% resource_link "c03629b4-a670-4967-a83a-624199848996" "The Dangers of Debt: Lending Weight" %}}," *The Economist*, September 14, 2013.
+"[The Dangers of Debt: Lending Weight](http://www.economist.com/news/schools-brief/21586284-second-our-series-articles-financial-crisis-looks-role-debt-and)," *The Economist*, September 14, 2013.
 
-"{{% resource_link "abc8d76c-296f-44b8-90eb-8b5348de8a4f" "Monetary Policy after the Crash: Controlling Interest" %}}," *The Economist*, September 21, 2013.
+"[Monetary Policy after the Crash: Controlling Interest](http://www.economist.com/news/schools-brief/21586527-third-our-series-articles-financial-crisis-looks-unconventional)," *The Economist*, September 21, 2013.
 
-"{{% resource_link "473b2569-5050-4d12-9b1f-469f4b4934e5" "Stimulus v Austerity: Sovereign Doubts" %}}," *The Economist*, September 28, 2013.
+"[Stimulus v Austerity: Sovereign Doubts](https://www.economist.com/schools-brief/2013/09/28/sovereign-doubts)," *The Economist*, September 28, 2013.
 
-"{{% resource_link "e12af3a3-0dbd-4ffa-8708-7cd8b2c12a25" "Making Banks Safe: Calling to Accounts" %}}," *The Economist*, October 5, 2013.
+"[Making Banks Safe: Calling to Accounts](http://www.economist.com/news/schools-brief/21587205-final-article-our-series-financial-crisis-examines-best-way-make-banks)," *The Economist*, October 5, 2013.

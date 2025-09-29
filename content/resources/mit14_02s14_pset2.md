@@ -4,6 +4,8 @@ description: This resource contains information regarding problem set 2.
 file: /courses/14-02-principles-of-macroeconomics-spring-2014/3e2ca8cbf6d78ba846f583b8a70b0f05_MIT14_02S14_pset2.pdf
 file_size: 94950
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

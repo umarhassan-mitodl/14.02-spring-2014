@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides an introduction to the course and information
   on meeting times, format, prerequisites, texts, grading, and course policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -66,7 +68,7 @@ There are two main teaching tools:
 *   A set of {{% resource_link f49a0f7f-30ec-5513-00d8-4a6d75c46f45 "lecture notes" %}} written by Prof. Giavazzi that cover the first seven lectures.
 *   Blanchard, Olivier, and David R. Johnson. _Macroeconomics_. 6th ed. Pearson, 2012. ISBN: 9780133061635.
 
-From time to time, depending on the topic discussed in class, a relevant article will be posted to the course website and you will be asked to read it. You are also encouraged to read {{% resource_link "6af0660e-9721-4757-9ee2-8935fcbdc300" "_The_ _Economist_" %}}, at least a couple times a month. It provides a good coverage of economic events, and will help you relate what you learn in the course to the real world.
+From time to time, depending on the topic discussed in class, a relevant article will be posted to the course website and you will be asked to read it. You are also encouraged to read [_The_ _Economist_](http://www.economist.com/), at least a couple times a month. It provides a good coverage of economic events, and will help you relate what you learn in the course to the real world.
 
 Grading
 -------
