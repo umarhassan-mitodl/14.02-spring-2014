@@ -5,8 +5,6 @@ description: This file contains the information regarding time inconsistency and
 file: /courses/14-02-principles-of-macroeconomics-spring-2014/cb2545686ae2d4ec5b5fc7c3963f7ed9_MIT14_02S14_time_incon.pdf
 file_size: 267401
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the lecture slides used in the class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
